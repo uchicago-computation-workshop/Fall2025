@@ -2,7 +2,7 @@
 
 Repository for the Fall 2025 Computational Social Science Workshop
 
-Time: 11:00 AM to 12:20 PM, Thursdays Location: Kent Chem Lab 107
+Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 107, Kent Chemical Laboratory
 
 # 10/02
 

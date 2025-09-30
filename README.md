@@ -1,1 +1,18 @@
 # Fall2025
+
+Repository for the Fall 2025 Computational Social Science Workshop
+
+Time: 11:00 AM to 12:20 PM, Thursdays Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
+
+# 10/02
+
+[Jean Clipperton](https://macss.uchicago.edu/directory/jean-clipperton) is an Associate Director of MACSS and Associate Senior Instructional Professor at the University of Chicago. She is a political scientist and computational social scientist and study how individuals create and interpret meaning through language, emotion, and culture, particularly in political contexts. Her research bridges political communication, political behavior, sociology, psychology, and institutional analysis. At the center of her research is a core question: how do individuals and institutions use language to create shared understanding and construct identity?
+
+**It's a new soundtrack: Candidates, Campaigns, and Rally playlists** As political candidates are increasingly using music at rallies and releasing or revealing playlists, placing their selected songs into this framework can provide clear and concise opportunities to study how they construct their public image, build political brands, and signal values to voters. I find both cross-party and within-candidate patterns: all candidates increased the use of pro-social language in their playlists, while Democratic candidates increasingly had more negative emotions and more moral language in their songs. Additionally, trust was the most common emotion present in all front-runner candidate playlists. Playlists can send signals about the candidates and how they view their responsibility: as a delegate acting on behalf of the people or as a brand in which voters invest. The dataset covers three presidential elections from 2016 to 2024, and over 2,000 songs. Trump, in each of his three campaigns, evidenced more 'brandidate'-type language in his playlists, with 'I' pronounced being used very heavily. In contrast, Democratic candidates tended toward delegate-type language and more inclusive 'we' language.
+
+---
+
+[Ali Sanaei](https://macss.uchicago.edu/directory/Ali-Sanaei) is an Associate Instructional Professor in the Masters in Computational Social Science program. He is a political scientist with a substantive interest in foreign policy and public opinion. His methodological interests include formal models, causal inference, Bayesian statistics, and applications of machine learning.
+
+**Reconstructing Pahlavi Governance: Leveraging Oral Histories with Retrieval-Augmented Generation** Oral histories provide valuable insights that are often impossible obtain with any other methods. If we are able to analyze oral histories at the corpus level, instead of focusing on one or a few interviews, we can benefit by getting an automatic triangulation of narratives and perspectives, and also by being able to query about the details that may not be possible to obtain from any single interview. We can leverage large language models by retrieval-augmented generation (RAG) techniques to accomplish this. We first divide the corpus into small snippets of text, then, for any given query, we retrieve the most relevant ones by semantic similarity using word-embeddings, then we show that while the generative phase fails if it is done in one pass, we can divide this phase into multiple tasks and obtain high quality results. We extract lessons and excerpts from each snippet, and finally, we synthesize the lessons and piece them together with the excerpts to create a verifiable narrative that answers the query by reference to the source. We apply this technique to Harvard Iranian Oral History Project corpus with queries about economic governance in the late Pahlavi era.
+

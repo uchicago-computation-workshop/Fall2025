@@ -4,6 +4,20 @@ Repository for the Fall 2025 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 107, Kent Chemical Laboratory
 
+# 10/09
+[Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/) is the Saieh Family Professor of Economics at the University of Chicago. He is also an Editor of the Journal of Political Economy, the co-director of the Becker Friedman Institute Political Economics Initiative and of the Program in Behavioral Economics Research, and the founder and director of the Normal Lab.
+
+His research seeks to better understand how individuals' main economic decisions are shaped by their social environments. His work has examined educational, labor market, financial, consumption, and political decisions, both in developing and developed countries.
+
+Leonardo is a Research Associate at the National Bureau of Economic Research (NBER), a fellow at the Bureau for Research and Economic Analysis of Development (BREAD), and an affiliate at the Abdul Latif Jameel Poverty Action Lab (J-PAL) and at the Pearson Institute. He is also the recipient of a 2016 Sloan Research Fellowship. He received his PhD in economics at Harvard University in 2010.
+
+**Product Market Traps in Big Tech**: We examine how social pressures and firm strategies can generate “product market traps” -- situations in which consumers sustain demand for products they would often prefer not to exist. Using incentivized experiments, we show that such traps arise organically on social media platforms such as TikTok and Instagram, largely due to FOMO (fear of missing out), and yield negative welfare once we account for the costs imposed on non-users. In the smartphone market, we study Apple’s decision to mark Android messages with “green bubbles” on iPhones. Our survey and experimental evidence shows that the feature carries strong stigma, creates sizable welfare losses, and that removing it significantly increases demand for Android devices. Finally, in the market for AI learning tools, incentivized experiments with parents reveal that demand rises sharply with peer adoption, while information about harms does not reduce individual demand but instead increases support for collective restrictions. Together, these findings demonstrate how product market traps can sustain demand and reinforce market power while lowering welfare, complicating standard methods of welfare measurement.
+
+**Reading List**
+- [When Product Markets Become Collective Traps: The Case of Social Media](https://home.uchicago.edu/bursztyn/CollectiveTraps_Nov2024.pdf)
+- [Non-User Utility and Market Power:The Case of Smartphones](https://home.uchicago.edu/bursztyn/Non_User_Utility_and_Market_Power.pdf)
+
+
 # 10/02
 
 [Jean Clipperton](https://macss.uchicago.edu/directory/jean-clipperton) is an Associate Director of MACSS and Associate Senior Instructional Professor at the University of Chicago. She is a political scientist and computational social scientist and study how individuals create and interpret meaning through language, emotion, and culture, particularly in political contexts. Her research bridges political communication, political behavior, sociology, psychology, and institutional analysis. At the center of her research is a core question: how do individuals and institutions use language to create shared understanding and construct identity?

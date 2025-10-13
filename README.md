@@ -4,6 +4,15 @@ Repository for the Fall 2025 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 107, Kent Chemical Laboratory
 
+# 10/16
+[Marc Berman](https://macss.uchicago.edu/directory/Marc-Berman) is a Professor in the Department of Psychology, Co-Director for the Masters in Computational Social Science Program, and Director of the Environmental Neuroscience Lab. He is involved in the Cognition, Social and Integrative Neuroscience programs. Understanding the relationship between individual psychological and neural processing and environmental factors lies at the heart of his research. In his lab they utilize brain imaging, behavioral experimentation, computational neuroscience and statistical models to quantify the person, the environment and their interactions.
+
+**Natural scenes are more compressible and less memorable than human-made scenes**: Humans often cannot process all the information available within an environment, but instead filter out much of it. This study examines whether the extent of information filtering may differ between environments, specifically natural and human-made environments. Across three behavioral experiments and computational analysis of 108,754 scene images, we analyzed the spectral and edge content of scenes to quantify the proportion of noticeable information. Our findings reveal that natural scenes have a lower proportion of noticeable information compared to human-made scenes, resulting in higher compressibility. Furthermore, natural scenes were consistently less memorable than human-made scenes, suggesting that greater information filtering occurs during encoding into memory. The lower memorability of natural scenes was partially explained by their higher compressibility. Our results indicate that compressibility, or the density of noticeable information, could be a key feature distinguishing natural environments from human-made environments, potentially explaining the benefits of interacting with natural environments.
+
+**Reading List**
+- [Natural scenes are more compressible and less memorable than human-made scenes](https://sciety-discovery.elifesciences.org/articles/by?article_doi=10.31234/osf.io/xw3ek_v1)
+
+
 # 10/09
 [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/) is the Saieh Family Professor of Economics at the University of Chicago. He is also an Editor of the Journal of Political Economy, the co-director of the Becker Friedman Institute Political Economics Initiative and of the Program in Behavioral Economics Research, and the founder and director of the Normal Lab.
 

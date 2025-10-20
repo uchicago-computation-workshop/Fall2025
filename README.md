@@ -4,6 +4,19 @@ Repository for the Fall 2025 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays Location: Room 107, Kent Chemical Laboratory
 
+# 10/23
+[Isaac Mehlhaff](https://political-science.uchicago.edu/directory/isaac-mehlhaff) is a Neubauer Family Assistant Professor in the Department of Political Science and is also affiliated with the Data Science Institute, Committee on Data Science, and Program in Political Economy at the University of Chicago. 
+
+His research is driven by substantive questions in public opinion and political psychology: How and why do citizens change their attitudes on political issues? Under what conditions can political discussion exacerbate or ameliorate mass polarization? How is polarization causally related to other features of government and society? He approaches his work primarily as a computational social scientist, using and developing methods in natural language processing, machine learning, and Bayesian modeling.
+
+He received his PhD in 2023 from The University of North Carolina at Chapel Hill. He also holds an MA from UNC-Chapel Hill and a BA from the University of Wisconsin-Madison.  
+
+**Political Argumentation and Attitude Change in Online Interactions**: Prevailing theories of public opinion and political psychology hold that human reasoning is biased and lazy, which suggests it is ill-suited to help ordinary citizens engage meaningfully with politics. In contrast, I contend that the biased and lazy nature of reasoning is precisely what gives citizens the tools to think through political issues and update their attitudes in response to argumentative exchanges. To test these hypotheses, I train a series of deep neural networks to classify textual inputs on several characteristics of discussion and argumentation. I use these classifiers to annotate over one million comments from the Reddit social media platform and show that attitude change is substantially more likely to result from argumentative exchanges rather than more contemplative ones. Results suggest that under the right conditions, humans can be quite skilled political reasoners.
+
+**Reading List**
+- [Political Argumentation and Attitude Change in Online Interactions](https://imehlhaff.net/assets/pdf/reddit.pdf)
+- [Multi-Task Learning Improves Performance in Deep Argument Mining Models](https://aclanthology.org/2024.argmining-1.5.pdf)
+
 # 10/16
 [Marc Berman](https://macss.uchicago.edu/directory/Marc-Berman) is a Professor in the Department of Psychology, Co-Director for the Masters in Computational Social Science Program, and Director of the Environmental Neuroscience Lab. He is involved in the Cognition, Social and Integrative Neuroscience programs. Understanding the relationship between individual psychological and neural processing and environmental factors lies at the heart of his research. In his lab they utilize brain imaging, behavioral experimentation, computational neuroscience and statistical models to quantify the person, the environment and their interactions.
 
